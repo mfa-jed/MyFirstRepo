@@ -1,3 +1,4 @@
 First File in GitDemo1
 Second line added in dev branch
 This line is added in master branch
+to check rm cmd
